@@ -1,14 +1,14 @@
 ### Hi you 👋
 
-welcome my warehouse of backlogged projects! I am a data scientist wanna:honeybee: *(aargh another one of those...)* spending his time on his precious debugger, mostly just complaining that deep learning should be considered applied magic and spending his nights staring at error messages like;
+welcome to my warehouse of backlogged projects! I am a data scientist wanna:honeybee: *(aargh another one of those...)* spending my time with my precious debugger, mostly just complaining that deep learning should be considered applied magic and spending my nights staring at error messages like;
 
 `+++ Divide By Cucumber Error. Please Reinstall Universe And Reboot +++`<br />
 `*Blip* *Blip* *Blip* Year Of The Sloth *Blip* *Blip* *Blip*`<br />
 `++?????++ Out of Cheese Error. Redo From Start.`<br />
 
-that is clearly making him re-evaluate his life choices :facepalm:
+that is clearly making me re-evaluate my life choices :facepalm:
 
-So in my sane moments, I'm...
+Nevertheless, in my sane moments, I'm...
 
 - 🔭 working with medical image segmentation and exploring MLOps best practices.
 - 🌱 researching multi-task learning approaches for mobile robotics.
