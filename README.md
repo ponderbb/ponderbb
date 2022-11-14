@@ -1,4 +1,4 @@
-### Hi you 👋
+### Hej you 👋
 
 welcome to my warehouse of backlogged projects! I am a data scientist wanna:honeybee: *(aargh another one of those...)* spending my time with my precious debugger, mostly just complaining that deep learning should be considered applied magic and spending my nights staring at error messages like;
 
