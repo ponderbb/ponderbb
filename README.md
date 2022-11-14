@@ -1,6 +1,6 @@
-### Hej you 👋
+### Welcome 👋
 
-welcome to my warehouse of backlogged projects! I am a data scientist wanna:honeybee: *(aargh another one of those...)* spending my time with my precious debugger, mostly just complaining that deep learning should be considered applied magic and spending my nights staring at error messages like;
+to my warehouse of backlogged projects! I am a data scientist wanna:honeybee: *(aargh another one of those...)* spending my time with my precious debugger, mostly just complaining that deep learning should be considered applied magic and spending my nights staring at error messages like;
 
 `+++ Divide By Cucumber Error. Please Reinstall Universe And Reboot +++`<br />
 `*Blip* *Blip* *Blip* Year Of The Sloth *Blip* *Blip* *Blip*`<br />
