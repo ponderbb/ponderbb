@@ -1,12 +1,12 @@
-### Hej you 👋
+### Hey there 👋
 
-here is Data Scientist wanna:honeybee: *(aargh another one of those...)* spending his time on his prescious debugger, mostly of the time just complaining that deep learning should be considered applied magic and spending his nights staring at error messages like;
+here is a data scientist wanna:honeybee: *(aargh another one of those...)* spending his time on his precious debugger, most of the time just complaining that deep learning should be considered applied magic and spending his nights staring at error messages like;
 
 `+++ Divide By Cucumber Error. Please Reinstall Universe And Reboot +++`<br />
 `*Blip* *Blip* *Blip* Year Of The Sloth *Blip* *Blip* *Blip*`<br />
 `++?????++ Out of Cheese Error. Redo From Start.`<br />
 
-that clearly make him re-evaluate his life choices :facepalm:
+that is clearly making him re-evaluate his life choices :facepalm:
 
 So in my sane moments, I'm...
 
