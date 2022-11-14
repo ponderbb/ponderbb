@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-here is a data scientist wanna:honeybee: *(aargh another one of those...)* spending his time on his precious debugger, most of the time just complaining that deep learning should be considered applied magic and spending his nights staring at error messages like;
+here is a data scientist wanna:honeybee: *(aargh another one of those...)* spending his time on his precious debugger, mostly just complaining that deep learning should be considered applied magic and spending his nights staring at error messages like;
 
 `+++ Divide By Cucumber Error. Please Reinstall Universe And Reboot +++`<br />
 `*Blip* *Blip* *Blip* Year Of The Sloth *Blip* *Blip* *Blip*`<br />
