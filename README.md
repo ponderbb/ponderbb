@@ -16,5 +16,5 @@ So in my sane moments, I'm...
 - 🤔 glad for pointers on Python libraries making my life easier.
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=ponderbb&&show_icons=true&count_private=true&theme=tokyonight">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponderbb&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ponderbb&&show_icons=true&count_private=true&theme=tokyonight">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponderbb&layout=compact&theme=tokyonight"/>
 |---|---|
