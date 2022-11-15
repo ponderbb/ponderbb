@@ -6,7 +6,7 @@ to my warehouse of backlogged projects! I am a data scientist wanna:honeybee: *(
 `*Blip* *Blip* *Blip* Year Of The Sloth *Blip* *Blip* *Blip*`<br />
 `++?????++ Out of Cheese Error. Redo From Start.`<br />
 
-that is clearly making me re-evaluate my life choices :facepalm:
+which is clearly making me re-evaluate my life choices :facepalm:
 
 Nevertheless, in my sane moments, I'm...
 
