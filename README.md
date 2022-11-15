@@ -19,21 +19,22 @@ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch&logoColor=02569B)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=008080)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon&logoColor=008080)&nbsp;
+![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)&nbsp;
+![Lightning](https://img.shields.io/badge/-Lightning-05122A?style=flat&logo=pytorchlightning)&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8)&nbsp;
+![wandb](https://img.shields.io/badge/-Wandb-05122A?style=flat&logo=weightsandbiases)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![ROS](https://img.shields.io/badge/-Ros-05122A?style=flat&logo=ros&logoColor=008080)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=008080)&nbsp;
+![RedHat](https://img.shields.io/badge/-RedHat-05122A?style=flat&logo=redhat&logoColor=D00000)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 
 ---
